@@ -1,6 +1,6 @@
 services:
   analysis-env:
-    image: EricXCY/mycontainer
+    image: EricXCY/dockerfile-practice
     ports:
       - "8787:8787"
     volumes:
